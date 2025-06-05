@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SmartHomeMaui.MainPage">
+
+    <ScrollView BackgroundColor="#ADD8E6">
+        <VerticalStackLayout>
+            <Label Text="Urządzenia domowe" HorizontalOptions="Center" Margin="5" FontAttributes="Bold"/>
+            <Label Text="Autor: https://github.com/Milosian" HorizontalOptions="Center" Margin="5"/>
+            <HorizontalStackLayout>
+                <Image Source="pralka.jpg" Margin="20,0,20,20" HeightRequest="150"/>
+                <VerticalStackLayout>
+                    <Label Text="Pralka" FontAttributes="Bold"/>
+                    <Entry x:Name="ProgNumberEntry" Placeholder="Podaj nr prania 1..12" PlaceholderColor="Navy" Keyboard="Numeric" BackgroundColor="#87CEEB" TextColor="Navy"/>
+                    <Button x:Name="SubmitBtn" Clicked="SubmitBtn_Clicked" Text="Zatwierdź" HorizontalOptions="Center" BackgroundColor="#4169E1" Margin="10"/>
+                    <Label Text="Numer prania: nie podano" x:Name="ProgNumberLbl"/>
+                </VerticalStackLayout>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout>
+                <Image Source="odkurzacz.jpg" Margin="20,0,20,20" HeightRequest="150"/>
+                <VerticalStackLayout>
+                    <Label Text="Odkurzacz" FontAttributes="Bold"/>
+                    <Button x:Name="OnBtn" Clicked="OnBtn_Clicked" Text="Włącz" HorizontalOptions="Center" BackgroundColor="#4169E1" Margin="10"/>
+                    <Label x:Name="CleanerStateLbl" Text="Odkurzacz wyłączony"/>
+                    <Label Text="Status naładowany"/>
+                </VerticalStackLayout>
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

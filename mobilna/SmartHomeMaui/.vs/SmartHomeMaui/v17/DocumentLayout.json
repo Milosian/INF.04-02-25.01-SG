@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\COLLEGE_CODE\\EGZAMINY\\INF_04\\INF.04-02-25.01-SG\\mobilna\\SmartHomeMaui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10E66C6A-0F0F-4FA3-AF30-20C9C3B96E29}|SmartHomeMaui.csproj|d:\\code\\college_code\\egzaminy\\inf_04\\inf.04-02-25.01-sg\\mobilna\\smarthomemaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E66C6A-0F0F-4FA3-AF30-20C9C3B96E29}|SmartHomeMaui.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E66C6A-0F0F-4FA3-AF30-20C9C3B96E29}|SmartHomeMaui.csproj|d:\\code\\college_code\\egzaminy\\inf_04\\inf.04-02-25.01-sg\\mobilna\\smarthomemaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10E66C6A-0F0F-4FA3-AF30-20C9C3B96E29}|SmartHomeMaui.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\CODE\\COLLEGE_CODE\\EGZAMINY\\INF_04\\INF.04-02-25.01-SG\\mobilna\\SmartHomeMaui\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\CODE\\COLLEGE_CODE\\EGZAMINY\\INF_04\\INF.04-02-25.01-SG\\mobilna\\SmartHomeMaui\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T10:37:48.997Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1064929357:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\CODE\\COLLEGE_CODE\\EGZAMINY\\INF_04\\INF.04-02-25.01-SG\\mobilna\\SmartHomeMaui\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "D:\\CODE\\COLLEGE_CODE\\EGZAMINY\\INF_04\\INF.04-02-25.01-SG\\mobilna\\SmartHomeMaui\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:37:58.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
