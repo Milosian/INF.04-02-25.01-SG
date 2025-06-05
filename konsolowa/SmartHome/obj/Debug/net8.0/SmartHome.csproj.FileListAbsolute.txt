@@ -1,0 +1,15 @@
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-02-25.01-SG\konsolowa\SmartHome\bin\Debug\net8.0\SmartHome.exe
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-02-25.01-SG\konsolowa\SmartHome\bin\Debug\net8.0\SmartHome.deps.json
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-02-25.01-SG\konsolowa\SmartHome\bin\Debug\net8.0\SmartHome.runtimeconfig.json
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-02-25.01-SG\konsolowa\SmartHome\bin\Debug\net8.0\SmartHome.dll
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-02-25.01-SG\konsolowa\SmartHome\bin\Debug\net8.0\SmartHome.pdb
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-02-25.01-SG\konsolowa\SmartHome\obj\Debug\net8.0\SmartHome.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-02-25.01-SG\konsolowa\SmartHome\obj\Debug\net8.0\SmartHome.AssemblyInfoInputs.cache
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-02-25.01-SG\konsolowa\SmartHome\obj\Debug\net8.0\SmartHome.AssemblyInfo.cs
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-02-25.01-SG\konsolowa\SmartHome\obj\Debug\net8.0\SmartHome.csproj.CoreCompileInputs.cache
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-02-25.01-SG\konsolowa\SmartHome\obj\Debug\net8.0\SmartHome.sourcelink.json
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-02-25.01-SG\konsolowa\SmartHome\obj\Debug\net8.0\SmartHome.dll
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-02-25.01-SG\konsolowa\SmartHome\obj\Debug\net8.0\refint\SmartHome.dll
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-02-25.01-SG\konsolowa\SmartHome\obj\Debug\net8.0\SmartHome.pdb
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-02-25.01-SG\konsolowa\SmartHome\obj\Debug\net8.0\SmartHome.genruntimeconfig.cache
+D:\CODE\COLLEGE_CODE\EGZAMINY\INF_04\INF.04-02-25.01-SG\konsolowa\SmartHome\obj\Debug\net8.0\ref\SmartHome.dll

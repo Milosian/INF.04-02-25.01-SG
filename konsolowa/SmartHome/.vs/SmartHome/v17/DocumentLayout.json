@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\COLLEGE_CODE\\EGZAMINY\\INF_04\\INF.04-02-25.01-SG\\konsolowa\\SmartHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C418C8-0052-4211-BE03-7811C2865366}|SmartHome.csproj|d:\\code\\college_code\\egzaminy\\inf_04\\inf.04-02-25.01-sg\\konsolowa\\smarthome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C418C8-0052-4211-BE03-7811C2865366}|SmartHome.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1064929357:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\COLLEGE_CODE\\EGZAMINY\\INF_04\\INF.04-02-25.01-SG\\konsolowa\\SmartHome\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CODE\\COLLEGE_CODE\\EGZAMINY\\INF_04\\INF.04-02-25.01-SG\\konsolowa\\SmartHome\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:36:07.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
